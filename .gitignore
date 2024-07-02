@@ -2,3 +2,4 @@
 *.json
 bible_sources
 venv
+!all_ebible_options.json
