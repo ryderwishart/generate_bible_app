@@ -38,7 +38,7 @@ MarkupSafe==2.1.5
 matplotlib==3.9.0
 mdurl==0.1.2
 multidict==6.0.5
-nltk==3.8.1
+nltk==3.9
 numpy==2.0.0
 openai==1.35.7
 packaging==24.1
